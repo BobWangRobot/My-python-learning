@@ -1,0 +1,1 @@
+a = b.read() = open(filename)
